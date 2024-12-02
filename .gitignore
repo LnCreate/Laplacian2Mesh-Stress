@@ -1,2 +1,7 @@
-.idea
-.idea_PC
+./data
+./logs
+./target
+./.idea
+./.idea_PC
+./.DS_Store
+./.gitignore
